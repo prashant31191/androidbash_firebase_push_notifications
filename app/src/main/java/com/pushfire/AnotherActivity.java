@@ -1,4 +1,4 @@
-package com.androidbash.androidbashfirebasepushnotify;
+package com.pushfire;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

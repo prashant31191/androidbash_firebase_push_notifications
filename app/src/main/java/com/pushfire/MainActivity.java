@@ -1,4 +1,4 @@
-package com.androidbash.androidbashfirebasepushnotify;
+package com.pushfire;
 /**
  * Created by AndroidBash on 20-Aug-16.
  */
@@ -56,9 +56,12 @@ public class MainActivity extends AppCompatActivity {
 
         String token = FirebaseInstanceId.getInstance().getToken();
 
-        // Log and toast
-        Log.d("AndroidBash", token);
-        Toast.makeText(MainActivity.this, token, Toast.LENGTH_SHORT).show();
+        if(token !=null) {
+            // Log and toast
+            Log.d("AndroidBash", token);
+            Toast.makeText(MainActivity.this, token, Toast.LENGTH_SHORT).show();
+        }
+
     }
 
     @Override

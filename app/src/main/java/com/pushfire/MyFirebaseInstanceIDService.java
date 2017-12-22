@@ -1,4 +1,4 @@
-package com.androidbash.androidbashfirebasepushnotify;
+package com.pushfire;
 
 /**
  * Created by AndroidBash on 20-Aug-16.

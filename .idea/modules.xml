@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidBashFirebasePushNotify.iml" filepath="$PROJECT_DIR$/AndroidBashFirebasePushNotify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidbash_firebase_push_notifications.iml" filepath="$PROJECT_DIR$/androidbash_firebase_push_notifications.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
